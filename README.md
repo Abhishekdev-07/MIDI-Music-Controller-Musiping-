@@ -24,7 +24,7 @@ PCB 3D Render
 ![PCB Render](PCB_Render_3D.png)
 
 Schematic
-![Schematic](schematic.png)
+![Schematic](Schematic.png)
 
 Case Design (Bottom Tray)
 ![Case Design](CAD_Img.png)
