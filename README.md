@@ -16,19 +16,19 @@ Features
 4) **Firmware:** Custom CircuitPython/KMK script configured for MIDI communication.
 
 📋 Bill of Materials (BOM)
-![BOM Table](BOM.png)
+![BOM Table](Other/BOM.png)
 
 📸 Design Visuals
 
 PCB 3D Render
-![PCB Render](PCB_Render_3D.png)
+![PCB Render](Other/PCB_Render_3D.png)
 
 Schematic
-![Schematic](Schematic.png)
+![Schematic](Other/Schematic.png)
 
 Case Design (Bottom and Top)
-![Case Design](CAD_Img_Bottom.png)
-![Case Design](CAD_Img_Top.png)
+![Case Design](Other/CAD_Img_Bottom.png)
+![Case Design](Other/CAD_Img_Top.png)
 
 -------------------------------
 *Designed by Abhishek Shylesh for the Hack Club Blueprint project.
