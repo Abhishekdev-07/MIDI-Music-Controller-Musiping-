@@ -26,8 +26,9 @@ PCB 3D Render
 Schematic
 ![Schematic](Schematic.png)
 
-Case Design (Bottom Tray)
-![Case Design](CAD_Img.png)
+Case Design (Bottom and Top)
+![Case Design](CAD_Img_Bottom.png)
+![Case Design](CAD_Img_Top.png)
 
 -------------------------------
 *Designed by Abhishek Shylesh for the Hack Club Blueprint project.
