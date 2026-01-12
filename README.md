@@ -30,5 +30,8 @@ Case Design (Bottom and Top)
 ![Case Design](Other/CAD_Img_Bottom.png)
 ![Case Design](Other/CAD_Img_Top.png)
 
+Case Design (Assembled)
+![Case Design](Other/Assembled.png)
+
 -------------------------------
 *Designed by Abhishek Shylesh for the Hack Club Blueprint project.
